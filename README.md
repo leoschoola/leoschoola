@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio no GitHub! Aqui você encontrará projetos desenvolvidos por mim durante o meu curso de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre. Meu nome é Leonardo Schoola e estou animado para compartilhar meu progresso e aprendizado até agora.
 
-## Sobre Mim ℹ️
+## Sobre mim / Linguagens ℹ️
 
 Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções eficientes. Atualmente, estou focado em aprimorar minhas habilidades em desenvolvimento web, especialmente em HTML, CSS e JavaScript, bem como em Java, utilizando a programação orientada a objetos (POO), e a utilização de APIs utilizando JSON.
 

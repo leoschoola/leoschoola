@@ -15,7 +15,7 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 - Link: https://leoschoola.github.io/projeto-android/
 
 
-  ### [Projeto 2: Estacionamento]
+### [Projeto 2: Estacionamento]
 
 - Descrição: Sistema criado para auxiliar administradores a cadastrar usuários e seus veículos
 - Tecnologias: Java

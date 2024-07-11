@@ -11,7 +11,7 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 ### [Projeto 1: Curiosidade Android]
 
 - Descrição: Site criado para mostrar a história do mascote Android, tendo como propósito estudar a aplicar conceitos estudados no curso de HTML e CSS do Curso em Video
-- Tecnologias: HTML e CSS
+- Tecnologias: HTML5 e CSS3
 - Link: https://leoschoola.github.io/projeto-android/
 
 
@@ -21,6 +21,12 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 - Tecnologias: Java
 - Link: https://github.com/leoschoola/projeto-estacionamento
 
+
+### [Projeto 3: Alura+]
+
+- Descrição: Site desenvolvido para mostrar benefícios, vantagens e assinar a Alura+
+- Tecnologias: HTML5 e CSS3
+- Link: https://github.com/leoschoola/projeto-estacionamento](https://leoschoola.github.io/projeto-aluraplus/
 
 ## Como Contribuir 🤝
 

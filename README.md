@@ -26,7 +26,7 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 
 - Descrição: Site desenvolvido para mostrar benefícios, vantagens e assinar a Alura+
 - Tecnologias: HTML5 e CSS3
-- Link: https://github.com/leoschoola/projeto-estacionamento](https://leoschoola.github.io/projeto-aluraplus/
+- Link: https://leoschoola.github.io/projeto-aluraplus/
 
 ## Como Contribuir 🤝
 

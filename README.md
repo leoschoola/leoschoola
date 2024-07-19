@@ -34,6 +34,12 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 - Tecnologias: HTML5 e CSS3
 - Link: https://leoschoola.github.io/projeto-portfolio/
 
+### [Projeto 5: Alura Books]
+
+- Descrição: Site desenvolvido para vendas de livros de programação
+- Tecnologias: HTML5 e CSS3
+- Link: https://projeto-book-alura.vercel.app/
+
 ## Como Contribuir 🤝
 
 Se você tiver alguma sugestão de melhoria ou quiser contribuir para algum projeto, fique à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a novas ideias e oportunidades de aprendizado colaborativo!

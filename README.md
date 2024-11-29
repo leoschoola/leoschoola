@@ -40,6 +40,12 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 - Tecnologias: HTML5 e CSS3
 - Link: https://projeto-book-alura.vercel.app/
 
+### [Projeto 6: Estudando Angular]
+
+- Descrição: Site desenvolvido para estudar o framework Angular
+- Tecnologias: Angular
+- Link: https://angular-leo-schoolas-projects.vercel.app/
+
 ## Como Contribuir 🤝
 
 Se você tiver alguma sugestão de melhoria ou quiser contribuir para algum projeto, fique à vontade para abrir uma issue ou enviar um pull request. Estou sempre aberto a novas ideias e oportunidades de aprendizado colaborativo!

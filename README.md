@@ -8,18 +8,18 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 
 ## Projetos 🛠️
 
-### [Projeto 1: Curiosidade Android]
+### [Projeto 1: Templat Barbearia]
+
+- Descrição: Projeto de template de barbearia para donos de pequenas barbearias
+- Tecnologias: React
+- Link: https://leoschoola.github.io/template-barbearia
+
+
+### [Projeto 2: Curiosidade Android]
 
 - Descrição: Site criado para mostrar a história do mascote Android, tendo como propósito estudar a aplicar conceitos estudados no curso de HTML e CSS do Curso em Video
 - Tecnologias: HTML5 e CSS3
 - Link: https://leoschoola.github.io/projeto-android/
-
-
-### [Projeto 2: Estacionamento]
-
-- Descrição: Sistema criado para auxiliar administradores a cadastrar usuários e seus veículos
-- Tecnologias: Java
-- Link: https://github.com/leoschoola/projeto-estacionamento
 
 
 ### [Projeto 3: Alura+]

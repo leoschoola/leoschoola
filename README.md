@@ -8,7 +8,7 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 
 ## Projetos 🛠️
 
-### [Projeto 1: Templat Barbearia]
+### [Projeto 1: Template Barbearia]
 
 - Descrição: Projeto de template de barbearia para donos de pequenas barbearias
 - Tecnologias: React

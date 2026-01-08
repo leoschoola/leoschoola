@@ -12,7 +12,7 @@ Sou um estudante dedicado, apaixonado por resolver problemas e criar soluções 
 
 - Descrição: Projeto de template de barbearia para donos de pequenas barbearias
 - Tecnologias: React
-- Link: https://leoschoola.github.io/template-barbearia
+- Link: https://leoschoola.github.io/projeto-template-barbearia/
 
 
 ### [Projeto 2: Curiosidade Android]
